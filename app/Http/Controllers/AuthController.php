@@ -6,21 +6,6 @@ use Illuminate\Http\Request;
 
 class AuthController extends Controller
 {
-<<<<<<< HEAD
-    public function login() {
-        return 'login';
-    }
-    public function logout() {
-        return 'logout';
-    }
-    public function refresh() {
-        return 'refresh';
-    }
-    public function me() {
-        return 'me';
-    }
-
-=======
     public function login(Request $request) {
         $credenciais = $request->all();
 
@@ -36,7 +21,8 @@ class AuthController extends Controller
     }
 
     public function logout() {
-        return 'logout';
+        return 'logout 2';
+
     }
 
     public function refresh() {
@@ -46,5 +32,4 @@ class AuthController extends Controller
     public function me() {
         return 'me';
     }
->>>>>>> e97eea7b6e9069eda1f95b190508cfd1ae1eda66
 }
