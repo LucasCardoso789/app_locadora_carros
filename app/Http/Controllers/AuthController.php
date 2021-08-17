@@ -21,7 +21,8 @@ class AuthController extends Controller
     }
 
     public function logout() {
-        return 'logout';
+        return 'logout 2';
+
     }
 
     public function refresh() {
