@@ -1121,10 +1121,13 @@
                 "JWS",
                 "jwt"
             ],
+<<<<<<< HEAD
             "support": {
                 "issues": "https://github.com/lcobucci/jwt/issues",
                 "source": "https://github.com/lcobucci/jwt/tree/3.3.3"
             },
+=======
+>>>>>>> e97eea7b6e9069eda1f95b190508cfd1ae1eda66
             "funding": [
                 {
                     "url": "https://github.com/lcobucci",
@@ -1528,10 +1531,13 @@
                 "jwt",
                 "token"
             ],
+<<<<<<< HEAD
             "support": {
                 "issues": "https://github.com/namshi/jose/issues",
                 "source": "https://github.com/namshi/jose/tree/master"
             },
+=======
+>>>>>>> e97eea7b6e9069eda1f95b190508cfd1ae1eda66
             "time": "2016-12-05T07:27:31+00:00"
         },
         {
@@ -3791,9 +3797,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
             "support": {
                 "source": "https://github.com/symfony/polyfill-php56/tree/v1.20.0"
             },
+=======
+>>>>>>> e97eea7b6e9069eda1f95b190508cfd1ae1eda66
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4712,10 +4721,13 @@
                 "jwt",
                 "laravel"
             ],
+<<<<<<< HEAD
             "support": {
                 "issues": "https://github.com/tymondesigns/jwt-auth/issues",
                 "source": "https://github.com/tymondesigns/jwt-auth"
             },
+=======
+>>>>>>> e97eea7b6e9069eda1f95b190508cfd1ae1eda66
             "funding": [
                 {
                     "url": "https://www.patreon.com/seantymon",
